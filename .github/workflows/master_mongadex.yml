@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MongaDex'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A895A81B23D443DA6EB8D60E4276EF9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2EBD92022A284085BAC2FFFA5EEC6CA9 }}
           package: .
