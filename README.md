@@ -5,7 +5,7 @@
     <a href="https://monga.host/" target="_blank">MyPokédex on Monga Host [Hosted on Azure App Services]</a>
     <a href="https://mypokedex.azurewebsites.net/" target="_blank">MyPokédex [Hosted on Azure App Services]</a>
     
-    <img src="https://img.shields.io/website?logo=microsoft&url=https%3A%2F%2Fmypokedex.azurewebsites.net"/>
+    
   </h3>
   <p>Search NationalDex Pokémon based on a variety of criterion. Create, modify, and view a personal Pokédex.</p>
 </div>
